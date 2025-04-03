@@ -1,2 +1,1 @@
-# Hackshield-AI
-Real-time hacker detection
+Real time AI face detection that also can sense deepfakes to prevent spoofing.
